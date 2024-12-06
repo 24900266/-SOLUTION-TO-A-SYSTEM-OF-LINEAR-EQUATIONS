@@ -19,6 +19,7 @@ End the program
     b=np.array([-9,4,-1])
     res=np.linalg.solve(a,b)
     print(res)
+    
 
 ## Output:
 ![output img](<Screenshot 2024-11-05 152243.png>)
