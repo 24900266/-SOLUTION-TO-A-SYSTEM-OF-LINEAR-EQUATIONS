@@ -21,6 +21,7 @@ End the program
     print(res)
     
 
+
 ## Output:
 ![output img](<Screenshot 2024-11-05 152243.png>)
 ## Result: 
